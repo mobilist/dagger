@@ -48,7 +48,7 @@
     <auto.common.version>0.4</auto.common.version>
     <auto.service.version>1.0-rc2</auto.service.version>
     <auto.value.version>1.0</auto.value.version>
-    <guava.version>18.0</guava.version>
+    <guava.version>r03</guava.version>
 
     <!-- Test Dependencies -->
     <compile-testing.version>0.7</compile-testing.version>
